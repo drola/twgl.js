@@ -12,7 +12,9 @@
   },
   "keywords": [
     "WebGL",
-    "twgl"
+    "twgl",
+    "util",
+    "helper"
   ],
   "author": "Greggman",
   "license": "MIT",
